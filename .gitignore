@@ -1,0 +1,17 @@
+*.iml
+######################
+# Intellij
+######################
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+
+.gradle
+local.properties
+.DS_Store
+build/
+captures/
+.externalNativeBuild/
